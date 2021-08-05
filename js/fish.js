@@ -329,3 +329,7 @@ FISH.prototype = {
 		this.controlStatus(context);
 	}
 };
+
+$(function(){
+	RENDERER.init();
+});
