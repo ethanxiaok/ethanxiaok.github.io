@@ -120,11 +120,11 @@
     
     
     <entry>
-      <title>排序算法</title>
-      <link href="post/algorithm/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
-      <url>post/algorithm/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</url>
+      <title>贪心算法</title>
+      <link href="post/algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/"/>
+      <url>post/algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<h1 id="排序算法"><a href="#排序算法" class="headerlink" title="排序算法"></a>排序算法</h1>]]></content>
+        <content type="html"><![CDATA[<p>#贪心算法</p>]]></content>
       
       
       <categories>
@@ -149,11 +149,11 @@
     
     
     <entry>
-      <title>贪心算法</title>
-      <link href="post/algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/"/>
-      <url>post/algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</url>
+      <title>排序算法</title>
+      <link href="post/algorithm/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
+      <url>post/algorithm/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<p>#贪心算法</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="排序算法"><a href="#排序算法" class="headerlink" title="排序算法"></a>排序算法</h1>]]></content>
       
       
       <categories>
